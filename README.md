@@ -1,1 +1,1 @@
-# TextAnnotation
+# ImageAnnotation
